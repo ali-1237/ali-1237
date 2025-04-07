@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Assalamu Alaikum, I'm Muhammad Ali
 
-<!--
-**ali-1237/ali-1237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Islamic Scholar | 💻 Aspiring Python Developer  
+🕌 Dars-e-Nizami Graduate – Jamia Ashrafia  
+📘 Now Studying BS Software Engineering – Virtual University
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 Python, Flask
+- 🌐 HTML, CSS, JavaScript (Basic), React (Basic)
+- 🗄️ PostgreSQL, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 [HTML Work](https://github.com/ali-1237/HTML_WORK)
+- 🔹 [Python Work](https://github.com/ali-1237)
+
+## 📫 Contact
+- 📧 aliasloob04@gmail.com
+- 🌍 GitHub: [ali-1237](https://github.com/ali-1237)
+
+---
+
+🚀 “Learning with passion and building with purpose.”
