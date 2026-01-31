@@ -14,7 +14,7 @@
 - 🔹 [Python Work](https://github.com/ali-1237)
 
 ## 📫 Contact
-- 📧 aliasloob04@gmail.com
+- 📧 muhammadali.dev01@gmail.com
 - 🌍 GitHub: [ali-1237](https://github.com/ali-1237)
 
 ---
